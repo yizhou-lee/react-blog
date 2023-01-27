@@ -81,7 +81,7 @@ function App() {
           setPostTitle={setPostTitle}
           postBody={postBody}
           setPostBody={setPostBody}
-        />} />
+          />} />
           <Route path=":id" element={<PostPage 
             posts={posts} 
             handleDelete={handleDelete} 
