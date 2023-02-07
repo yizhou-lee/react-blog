@@ -1,1 +1,1 @@
-# This is a ttl of react router
+# This project creates a blog system using react
